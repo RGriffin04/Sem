@@ -1,0 +1,13 @@
+Execute:
+> SELECT 
+    SUM(Population) AS 'Total Population'
+FROM
+    country
+
++ --------------------- +
+| Total Population      |
++ --------------------- +
+| 6078749450            |
++ --------------------- +
+1 rows
+
